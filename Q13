@@ -1,0 +1,8 @@
+Problem 1: Even or Odd
+Check whether a number is even or odd.
+class EvenOdd { public static void main(String[] args) { int n = 7; if(n % 2 == 0)
+System.out.println("Even"); else System.out.println("Odd"); } }
+Problem 2: Largest of Two Numbers
+Find the largest of two numbers.
+class Largest { public static void main(String[] args) { int a = 5, b = 9;
+System.out.println(a > b ? a : b); } }
