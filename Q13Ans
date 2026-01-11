@@ -1,0 +1,11 @@
+Problem 1: Sum of Array Elements
+Question: Find the sum of elements in an array.
+Answer / Explanation: Each element of the array is added using a loop.
+class ArraySum { public static void main(String[] args) { int[] arr = {1,2,3,4};
+int sum = 0; for(int x : arr) sum += x; System.out.println(sum); } }
+Problem 2: Largest Element in Array
+Question: Find the largest element in an array.
+Answer / Explanation: The program checks each element and stores the maximum value.
+class LargestArray { public static void main(String[] args) { int[] arr =
+{3,7,2,9}; int max = arr[0]; for(int x : arr) if(x > max) max = x;
+System.out.println(max); } }
