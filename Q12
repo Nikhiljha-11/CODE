@@ -1,0 +1,8 @@
+Problem 1: Hello World
+Write a Java program to print 'Hello, World!'.
+class HelloWorld { public static void main(String[] args) {
+System.out.println("Hello, World!"); } }
+Problem 2: Add Two Numbers
+Write a Java program to add two integers.
+class AddNumbers { public static void main(String[] args) { int a = 10, b = 20;
+System.out.println("Sum = " + (a + b)); } }
