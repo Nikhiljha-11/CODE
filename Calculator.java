@@ -43,5 +43,7 @@ public class Calculator {
         }
 
         sc.close();
+        System.out.println("Thank you for the using our result system");
     }
 }
+
