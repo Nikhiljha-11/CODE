@@ -25,4 +25,5 @@ int main() {
         cout << "Element found";
     else
         cout << "Element not found";
+return 0;
 }
