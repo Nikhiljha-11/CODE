@@ -6,7 +6,7 @@ public class SquareCal{
 
         System.out.print("Enter a number: ");
         int num = sc.nextInt();
-        System.out.println("Square of " + num + " is: " + num*num);
+        int square = num * num;
+        System.out.println("Square of " + num + " is: " + square);
     }
-
 }
