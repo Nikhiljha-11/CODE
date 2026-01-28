@@ -20,6 +20,7 @@ public:
 
     void display_date() {
         cout << "Date: " << day << "/" << month << "/" << year << endl;
+        cout<<"Thank you"<<endl;
     }
 };
 
