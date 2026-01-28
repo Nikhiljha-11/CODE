@@ -36,7 +36,7 @@ public class Calculator {
                     System.out.println("Error: Division by zero!");
                     return;
                 }
-                System.out.println("Result = " + result);
+                System.out.println("Result =  " + result);
                 break;
             default:
                 System.out.println("Invalid operator!");
@@ -46,4 +46,5 @@ public class Calculator {
         System.out.println("Thank you for the using our result system");
     }
 }
+
 
