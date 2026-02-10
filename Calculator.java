@@ -44,7 +44,9 @@ public class Calculator {
 
         sc.close();
         System.out.println("Thank you for the using our result system");
+        System.out.println("This is the time of Good Network");
     }
 }
+
 
 
