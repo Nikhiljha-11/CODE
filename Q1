@@ -15,5 +15,6 @@ int main() {
     }
     else {
         cout << "Greatest number is: " << c;
+        cout<<"Thank You for This"<<endl;
     }
 }
