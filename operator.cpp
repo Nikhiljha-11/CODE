@@ -4,7 +4,6 @@ using namespace std;
 class Complex {
 private:
     float real, imag;
-
 public:
     void set(float r, float i) {
         real = r;
