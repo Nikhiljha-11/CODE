@@ -48,7 +48,7 @@ public:
 };
 
 int main() {
-    Time t1(14, 30, 0);
+    Time t1(17, 30, 0);
     t1.convertTo12();
     t1.display();
 
