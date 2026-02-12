@@ -1,6 +1,6 @@
 public class BinarySearch{
     public static void main(String[] args){
-        int [] arr = {2,4,6,8,10,15,20};
+        int [] arr = {2,4,6,8,10,15,20,24};
         int target = 10;
         System.out.println(Search( arr, target, 0 , arr.length-1));
     }
@@ -22,6 +22,7 @@ public class BinarySearch{
 }
 
     
+
 
 
 
