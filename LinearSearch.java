@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class LinearSearch {
     public static void main(String[] args) {
-        int[] arr = {2,4,7,8,9,6,5,3,1};
+        int[] arr = {2,4,7,8,9,5,3,1};
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number you want to search: ");
         int item = sc.nextInt();
@@ -20,3 +20,4 @@ public class LinearSearch {
         }
     }
 }
+
