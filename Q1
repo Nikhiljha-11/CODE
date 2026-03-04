@@ -11,7 +11,7 @@ int main() {
         cout << "Greatest number is: " << a;
     }
     else if (b >= a && b >= c) {
-        cout << "Greatest number is: " << b;
+        cout << "Greatest number is: "<< b;
     }
     else {
         cout << "Greatest number is: " << c;
