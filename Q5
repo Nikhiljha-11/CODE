@@ -10,7 +10,7 @@ int main() {
     cin >> N;
 
     for (int i = 1; i <= N; i++) {
-        cout << i << " ";
+        cout << i <<" ";
         sum += i;
     }
 
