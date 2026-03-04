@@ -8,7 +8,6 @@ public class ElectricityBill {
 
         System.out.print("Enter units consumed: ");
         int units = sc.nextInt();
-
         double billAmount;
 
         if (units <= 100) {
@@ -34,3 +33,4 @@ public class ElectricityBill {
         System.out.println("--- Thank you ----");
     }
 }
+
