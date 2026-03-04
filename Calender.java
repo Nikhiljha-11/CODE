@@ -19,7 +19,7 @@ public class Calender {
         System.out.println("Mon   Tue   Wed   Thu   Fri   Sat   Sun");
 
         for (int i = 0; i < startDay; i++) {
-            System.out.print("      ");
+            System.out.print("    ");
         }
 
 
@@ -45,4 +45,5 @@ public class Calender {
         return day;
     }
 }
+
 
