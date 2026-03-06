@@ -5,7 +5,6 @@ public class BinarySearch{
         System.out.println(Search( arr, target, 0 , arr.length-1));
     }
     static int Search(int[]arr , int target ,  int s , int e){
-        
         if(s>e){
             return -1;
         }
@@ -21,6 +20,7 @@ public class BinarySearch{
 }
 
     
+
 
 
 
