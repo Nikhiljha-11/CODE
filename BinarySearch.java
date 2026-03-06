@@ -17,9 +17,11 @@ public class BinarySearch{
         }
          return Search(arr , target , mid+1 , e);
     }
+    
 }
 
     
+
 
 
 
