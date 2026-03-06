@@ -8,5 +8,6 @@ public class SquareCal{
         int square = num * num;
         System.out.println("Square of " + num + " is: " + square);
     }
-
+            System.out.println("Sqaure nuumber is " : + square);
 }
+
