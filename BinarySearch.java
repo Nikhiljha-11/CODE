@@ -7,7 +7,6 @@ public class BinarySearch{
     static int Search(int[]arr , int target ,  int s , int e){
         if(s>e){
             return -1;
-            
         }
         int mid = (s + (e-s)/2);
         if (arr[mid] == target){
@@ -22,6 +21,7 @@ public class BinarySearch{
 }
 
     
+
 
 
 
