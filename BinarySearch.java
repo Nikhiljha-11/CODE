@@ -11,6 +11,7 @@ public class BinarySearch{
         int mid = (s + (e-s)/2);
         if (arr[mid] == target){
             return mid;
+            System.out.println("Number is Serach ");
         }
         if(target <arr[mid]){
           return Search(arr , target , s , mid-1);
@@ -21,6 +22,7 @@ public class BinarySearch{
 }
 
     
+
 
 
 
